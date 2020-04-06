@@ -1,0 +1,36 @@
+.TodoItem {
+    color:  #000000;
+    padding: 10px 5px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+.TodoItem span {
+    flex: 1 1 auto;
+}
+
+
+.TodoItem button {
+    background-color: #66ff1f;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-right: 10px;
+}
+
+.TodoItem button:last-child {
+    background-color: #ff1818;
+    color: #ffffff;
+    margin: 0;
+}
+
+.Done {
+    text-decoration: line-through;
+}
+
+
+.Done-li {
+    background-color: #56f50cc0;
+}

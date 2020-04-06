@@ -1,0 +1,23 @@
+
+.Add-Todo {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto 20px;
+}
+
+.Add-Todo__message {
+    border: 1px solid #cccccc;
+    padding: 5px;
+    font-size: 20px;
+    margin-right: 50px;
+    width: 70%;
+}
+
+.Add-Todo__btn {
+    font-size: 18px;
+    padding: 8px 20px;
+    background-color: rgb(13, 250, 250);
+    border-radius: 15px;
+    text-align: center;
+}
